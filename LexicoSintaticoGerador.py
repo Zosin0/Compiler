@@ -86,3 +86,4 @@ if __name__ == "__main__":
     codigo_c_traduzido = tradutorC(pseudo_codigo)
     codigo_c = geradorDeCodigo(codigo_c_traduzido)
     print(codigo_c)
+
